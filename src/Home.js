@@ -1,6 +1,6 @@
 import React from "react";
 import web from "../src/assets/images/Robot.png";
-import { NavLink } from "react-router-dom";
+
 import Commom from "./Common";
 import Footer from "./Footer";
 
@@ -14,9 +14,9 @@ const Home = () => {
         btname="Know more"
       />
 
-      <div className="container mt-5">
+      <div className="container">
         <div className="row">
-          <div className="col-md-6 col-10 mb-5 mt-5">
+          <div className="col-md-6 col-sm-12 mb-3 mt-5">
             <h3>
               <strong className="strongfont">TOP TRENDING </strong> ELECTRIC TWO
               WHEELER
@@ -27,9 +27,10 @@ const Home = () => {
               of them takes the crown.
             </p>
           </div>
-          <div className="col-md-6 col-10 mb-5 mt-3">
+          <div className="col-md-6 col-sm-12 mb-3">
             <div class="embed-responsive embed-responsive-16by9">
               <iframe
+                title="video"
                 class="embed-responsive-item"
                 src="https://www.youtube.com/embed/HU0gpmNMJ6Q"
                 allowfullscreen
