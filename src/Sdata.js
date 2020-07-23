@@ -32,7 +32,7 @@ const Sdata = [
   },
   {
     imgsrc: computerperi,
-    title: "Computer testing",
+    title: "mobile compo",
   },
 ];
 
