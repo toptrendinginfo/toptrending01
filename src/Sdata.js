@@ -34,6 +34,13 @@ const Sdata = [
   {
     imgsrc: computerperi,
     title: "Computer Peripherals",
+
+    url: "/Mobile",
+
+  },
+  {
+    imgsrc: computerperi,
+    title: "mobile compo",
     url: "/Mobile",
   },
 ];
