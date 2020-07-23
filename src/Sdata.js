@@ -30,6 +30,10 @@ const Sdata = [
     imgsrc: computerperi,
     title: "Computer Peripherals",
   },
+  {
+    imgsrc: computerperi,
+    title: "Computer testing",
+  },
 ];
 
 export default Sdata;
