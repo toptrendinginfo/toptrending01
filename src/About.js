@@ -1,6 +1,6 @@
 import React from "react";
 import web from "../src/assets/images/Robot01.png";
-import { NavLink } from "react-router-dom";
+
 import Commom from "./Common";
 import Footer from "./Footer";
 import ab01 from "../src/assets/images/new00.png";
@@ -18,11 +18,11 @@ const About = () => {
 
       <div className="container mt-5">
         <div className="row">
-          <div className="col-md-6 col-10 mb-5 mt-5">
-            <h3 className="mt-5">
+          <div className="col-md-6 col-sm-12 mb-5">
+            <h3>
               <strong className="strongfont">What We</strong> Do
             </h3>
-            <p className="textjusti mt-5">
+            <p className="textjusti mt-3">
               Check out Expert <strong> Reviews </strong> and Ratings of Latest
               Technology Products,<strong> Gadgets,</strong> Gizmos, mobile
               phones, tablets, laptops, cameras, apps etc.
@@ -59,9 +59,9 @@ const About = () => {
               which will help you speed up your car search.
             </p>
           </div>
-          <div className="col-md-6 col-10 mb-5 mt-5">
-            <img src={ab02} className="img-fluid animated"></img>
-            <img src={ab01} className="img-fluid animated"></img>
+          <div className="col-md-6 col-sm-12 mb-5 ">
+            <img src={ab02} className="img-fluid" alt="carimage"></img>
+            <img src={ab01} className="img-fluid" alt="gadgets"></img>
           </div>
         </div>
       </div>
