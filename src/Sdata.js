@@ -9,30 +9,32 @@ const Sdata = [
   {
     imgsrc: mobile,
     title: "Mobile Phones",
+    url: "/Mobile",
   },
   {
     imgsrc: smartwatch,
     title: "Smart Watches",
+    url: "/About",
   },
   {
     imgsrc: laptop,
     title: "Laptop",
+    url: "/Mobile",
   },
   {
     imgsrc: homeappliances,
     title: "Home Appliances",
+    url: "/Mobile",
   },
   {
     imgsrc: desktop,
     title: "Desktop Computer",
+    url: "/Mobile",
   },
   {
     imgsrc: computerperi,
     title: "Computer Peripherals",
-  },
-  {
-    imgsrc: computerperi,
-    title: "mobile compo",
+    url: "/Mobile",
   },
 ];
 
