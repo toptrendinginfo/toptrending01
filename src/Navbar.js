@@ -4,9 +4,9 @@ import logo from "../src/assets/images/logo.png";
 
 const Navbar = () => {
   return (
-    <div className="container-fluid bg-light mb-5">
+    <div className="container bg-light mb-5">
       <div className="row ">
-        <div className="col-10 mx-auto ">
+        <div className="col-md-12 mx-auto ">
           <nav className="navbar navbar-expand-lg navbar-light bg-light">
             <NavLink className="navbar-brand" to="/">
               <img src={logo} className="img-fluid"></img>
