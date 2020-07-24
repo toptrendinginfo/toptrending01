@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.5c1bdf9c.chunk.css",
-    "main.js": "/static/js/main.64449398.chunk.js",
-    "main.js.map": "/static/js/main.64449398.chunk.js.map",
+    "main.js": "/static/js/main.98df490a.chunk.js",
+    "main.js.map": "/static/js/main.98df490a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8bc617d6.js",
     "runtime-main.js.map": "/static/js/runtime-main.8bc617d6.js.map",
     "static/css/2.75c4ecca.chunk.css": "/static/css/2.75c4ecca.chunk.css",
-    "static/js/2.6b19a533.chunk.js": "/static/js/2.6b19a533.chunk.js",
-    "static/js/2.6b19a533.chunk.js.map": "/static/js/2.6b19a533.chunk.js.map",
+    "static/js/2.3a62445f.chunk.js": "/static/js/2.3a62445f.chunk.js",
+    "static/js/2.3a62445f.chunk.js.map": "/static/js/2.3a62445f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1ea324089c73ffc46c744ff430971eac.js": "/precache-manifest.1ea324089c73ffc46c744ff430971eac.js",
+    "precache-manifest.c49f5cf1131772fab6a9f6c87e4b4b8e.js": "/precache-manifest.c49f5cf1131772fab6a9f6c87e4b4b8e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/static/css/2.75c4ecca.chunk.css.map",
     "static/css/main.5c1bdf9c.chunk.css.map": "/static/css/main.5c1bdf9c.chunk.css.map",
-    "static/js/2.6b19a533.chunk.js.LICENSE.txt": "/static/js/2.6b19a533.chunk.js.LICENSE.txt",
+    "static/js/2.3a62445f.chunk.js.LICENSE.txt": "/static/js/2.3a62445f.chunk.js.LICENSE.txt",
     "static/media/Robot.png": "/static/media/Robot.c2179451.png",
     "static/media/Robot01.png": "/static/media/Robot01.0c59fd04.png",
     "static/media/cp.jpg": "/static/media/cp.66878f74.jpg",
@@ -21,12 +21,6 @@
     "static/media/ha.jpg": "/static/media/ha.9bd0701f.jpg",
     "static/media/logo.png": "/static/media/logo.a3a63540.png",
     "static/media/lp.jpg": "/static/media/lp.daff8aac.jpg",
-    "static/media/mdata01.jpg": "/static/media/mdata01.80fc8ef4.jpg",
-    "static/media/mdata02.jpg": "/static/media/mdata02.a72b9c85.jpg",
-    "static/media/mdata03.jpg": "/static/media/mdata03.b9f0b891.jpg",
-    "static/media/mdata04.jpg": "/static/media/mdata04.3e2ba88c.jpg",
-    "static/media/mdata05.jpg": "/static/media/mdata05.c445f2a4.jpg",
-    "static/media/mdata06.jpg": "/static/media/mdata06.f68e4ede.jpg",
     "static/media/mobile.jpg": "/static/media/mobile.42c099e9.jpg",
     "static/media/new00.png": "/static/media/new00.5174e68d.png",
     "static/media/nexonev.jpg": "/static/media/nexonev.7f9f2f9f.jpg",
@@ -35,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.8bc617d6.js",
     "static/css/2.75c4ecca.chunk.css",
-    "static/js/2.6b19a533.chunk.js",
+    "static/js/2.3a62445f.chunk.js",
     "static/css/main.5c1bdf9c.chunk.css",
-    "static/js/main.64449398.chunk.js"
+    "static/js/main.98df490a.chunk.js"
   ]
 }
