@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 
 const Footer = () => {
   return (
-    <footer>
+    <footer className="mt-5">
       <div className="copyright">
         <p>&copyright 2020 - Top Trending Info</p>
       </div>

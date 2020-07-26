@@ -1,7 +1,8 @@
 import React from "react";
-import Card from "./card";
+
 import Sdata from "./Sdata";
 import Footer from "./Footer";
+import Card02 from "./card02";
 
 const Service = () => {
   return (
@@ -15,7 +16,12 @@ const Service = () => {
             <div className="row gy-4">
               {Sdata.map((val, ind) => {
                 return (
-                  <Card imgsrc={val.imgsrc} title={val.title} url={val.url} />
+                  <Card02
+                    imgsrc={val.imgsrc}
+                    title={val.title}
+                    visit={val.visit}
+                    text={val.text}
+                  />
                 );
               })}
             </div>

@@ -8,40 +8,40 @@ import computerperi from "../src/assets/images/cp.jpg";
 const Sdata = [
   {
     imgsrc: mobile,
+    text: "",
     title: "Mobile Phones",
-    url: "/Mobile",
+    visit: "./mobile",
   },
   {
     imgsrc: smartwatch,
+    text: "",
     title: "Smart Watches",
-    url: "/About",
+    visit: "./smartwatches",
   },
   {
     imgsrc: laptop,
+    text: "",
     title: "Laptop",
-    url: "/Mobile",
+    visit: "./mobile",
   },
   {
     imgsrc: homeappliances,
+    text: "",
     title: "Home Appliances",
-    url: "/Mobile",
+    visit: "./mobile",
   },
   {
     imgsrc: desktop,
+    text: "",
     title: "Desktop Computer",
-    url: "/Mobile",
+    visit: "./mobile",
   },
   {
     imgsrc: computerperi,
+    text: "",
     title: "Computer Peripherals",
 
-    url: "/Mobile",
-
-  },
-  {
-    imgsrc: computerperi,
-    title: "mobile compo",
-    url: "/Mobile",
+    visit: "./mobile",
   },
 ];
 

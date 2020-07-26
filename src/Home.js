@@ -27,17 +27,18 @@ const Home = () => {
               of them takes the crown.
             </p>
           </div>
-          <div className="col-md-6 col-sm-12 mb-3">
+          <div className="col-md-6 col-sm-12 mb-3 mt-5">
             <div class="embed-responsive embed-responsive-16by9">
               <iframe
                 title="video"
-                class="embed-responsive-item"
+                className="embed-responsive-item"
                 src="https://www.youtube.com/embed/HU0gpmNMJ6Q"
                 allowfullscreen
               ></iframe>
             </div>
           </div>
         </div>
+        
       </div>
       <Footer />
     </>
